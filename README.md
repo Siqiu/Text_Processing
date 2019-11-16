@@ -1,3 +1,5 @@
+COM6115:   Text Processing - University of Sheffield
+
 Number Tag Description
 1.	CC	Coordinating conjunction
 2.	CD	Cardinal number
