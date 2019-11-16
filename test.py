@@ -26,3 +26,9 @@ materialInTag = re.compile(r"<\w+>(.*?)</\w+>")
 URL = re.compile(r"href=\"(.*?)\"")
 
 print(RETag.sub("", str4).strip())
+
+str1 = ["bm3405", "dx19", "Thiscontainsav3440andsoqualifies"]
+
+for i in str1:
+    print(re.compile("[a-d][m-z][0-9]*").findall(i))
+
